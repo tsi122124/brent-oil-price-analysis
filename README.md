@@ -46,3 +46,59 @@ brent-oil-price-analysis/
 ├── requirements.txt
 └── .gitignore
 ```
+
+---
+
+## Installation
+
+git clone <repository-url>
+
+cd brent-oil-price-analysis
+
+python -m venv venv
+
+source venv/Scripts/activate
+
+pip install -r requirements.txt
+
+## Methodology
+
+The project follows the following workflow:
+Data Collection
+Data Cleaning
+Exploratory Data Analysis
+Trend Analysis
+Stationarity Testing
+Bayesian Change Point Modeling
+Event Association Analysis
+Dashboard Development
+Reporting
+
+## Technologies Used
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Statsmodels
+PyMC
+ArviZ
+Flask
+React
+
+## Expected Outputs
+
+Exploratory Data Analysis
+Bayesian Change Point Model
+Posterior Distributions
+Structural Break Detection
+Event Impact Analysis
+Interactive Dashboard
+Professional Technical Report
+
+## Contributors
+
+Tsion Habtesilassei
+10 Academy AI Mastery Program
